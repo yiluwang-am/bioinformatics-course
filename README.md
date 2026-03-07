@@ -1,8 +1,3 @@
-![](media/image1.png){width="3.779166666666667in"
-height="0.4465277777777778in"}![图片包含 图形用户界面 AI
-生成的内容可能不正确。](media/image2.png){width="2.0145833333333334in"
-height="1.0194444444444444in"}
-
 HP-F2: Applied Tumor Immunity
 
 Week 3: Bioinformatics
@@ -1332,3 +1327,4 @@ checkmate_2.3.3
 \[85\] SparseArray_1.10.2 farver_2.1.2 memoise_2.0.1 lifecycle_1.0.4
 
 \[89\] httr_1.4.7 statmod_1.5.1 bit64_4.6.0-1 MASS_7.3-65
+
